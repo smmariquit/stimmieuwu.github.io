@@ -1,3 +1,5 @@
+// js/custom.js
+
 (function ($) {
 
   "use strict";

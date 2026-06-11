@@ -1,3 +1,5 @@
+// js/init.js
+
 //Hook up the tweet display
 
 $(document).ready(function() {
